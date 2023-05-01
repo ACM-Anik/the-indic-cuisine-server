@@ -1,0 +1,58 @@
+{
+    "chefs": [
+        {
+            "id": 1,
+            "name": "Sanjeev Kapoor",
+            "picture": "https://example.com/sanjeev-kapoor.jpg",
+            "yearsOfExperience": 30,
+            "numberOfRecipes": 1000,
+            "likes": 15000,
+            "description": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known as the author of numerous Indian cookbooks and the host of the TV show Khana Khazana, which is the longest-running Indian food show."
+        },
+        {
+            "id": 2,
+            "name": "Vikas Khanna",
+            "picture": "https://example.com/vikas-khanna.jpg",
+            "yearsOfExperience": 20,
+            "numberOfRecipes": 500,
+            "likes": 8000,
+            "description": "Vikas Khanna is an Indian Michelin star Chef, restaurateur, cookbook writer, filmmaker, humanitarian and the judge of MasterChef India Season 2, 3, 4, 5 and Masterchef Junior. He is based in New York City."
+        },
+        {
+            "id": 3,
+            "name": "Ranveer Brar",
+            "picture": "https://example.com/ranveer-brar.jpg",
+            "yearsOfExperience": 18,
+            "numberOfRecipes": 400,
+            "likes": 6500,
+            "description": "Ranveer Brar is an Indian celebrity chef, TV show host, author, and food stylist. He is best known for his role as a judge on MasterChef India and his TV show 'The Great Indian Rasoi'."
+        },
+        {
+            "id": 4,
+            "name": "Madhur Jaffrey",
+            "picture": "https://example.com/madhur-jaffrey.jpg",
+            "yearsOfExperience": 50,
+            "numberOfRecipes": 600,
+            "likes": 10000,
+            "description": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She is recognized for bringing Indian cuisine to the western world through her cookbooks and TV shows, and has authored over 15 cookbooks."
+        },
+        {
+            "id": 5,
+            "name": "Atul Kochhar",
+            "picture": "https://example.com/atul-kochhar.jpg",
+            "yearsOfExperience": 25,
+            "numberOfRecipes": 300,
+            "likes": 5000,
+            "description": "Atul Kochhar is an Indian-born, Michelin-starred chef, restaurateur, and television personality. He is best known for his restaurants in London, including Benares, which has held a Michelin star since 2007."
+        },
+        {
+            "id": 6,
+            "name": "Zorawar Kalra",
+            "picture": "https://example.com/zorawar-kalra.jpg",
+            "yearsOfExperience": 15,
+            "numberOfRecipes": 200,
+            "likes": 4500,
+            "description": "Zorawar Kalra is an Indian entrepreneur and the founder of Massive Restaurants, which operates several restaurant brands across India and overseas. He is also a judge on MasterChef India."
+        }
+    ]
+}
