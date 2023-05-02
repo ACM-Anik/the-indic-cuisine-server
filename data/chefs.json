@@ -2,55 +2,350 @@
     {
         "id": 1,
         "name": "Sanjeev Kapoor",
-        "picture": "https://example.com/sanjeev-kapoor.jpg",
+        "picture": "https://st2.depositphotos.com/1005893/8110/i/450/depositphotos_81108802-stock-photo-indian-male-chef-in-uniform.jpg",
         "yearsOfExperience": 30,
         "numberOfRecipes": 1000,
         "likes": 15000,
-        "description": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known as the author of numerous Indian cookbooks and the host of the TV show Khana Khazana, which is the longest-running Indian food show."
+        "description": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known as the author of numerous Indian cookbooks and the host of the TV show Khana Khazana, which is the longest-running Indian food show.",
+        "recipes": [
+            {
+                "recipe_id": 1,
+                "recipe_name": "Butter Chicken",
+                "picture": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine_2829-4415.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "how_to_cook": "Marinate chicken in yogurt and spices for at least 30 minutes. Grill the chicken and set aside. In a pan, saute onions and garlic until golden brown. Add in tomato puree, cream, and spices. Add in grilled chicken and let it cook for 10-15 minutes.",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "tomato puree",
+                    "cream",
+                    "butter",
+                    "spices"
+                ],
+                "rating": 4.5,
+                "price": 12
+            },
+            {
+                "recipe_id": 2,
+                "recipe_name": "Dal Makhani",
+                "picture": "https://img.freepik.com/free-photo/delicious-vegetable-soup-bowl_181624-34248.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "how_to_cook": "Soak the lentils for at least 6 hours. In a pressure cooker, add in lentils, water, and salt. Cook for 20-25 minutes. In a separate pan, saute onions, ginger, garlic, and tomato puree. Add in the cooked lentils and let it simmer for 10-15 minutes. Add in cream and butter. Serve with rice or naan.",
+                "ingredients": [
+                    "lentils",
+                    "onions",
+                    "ginger",
+                    "garlic",
+                    "tomato puree",
+                    "cream"
+                ],
+                "rating": 4.2,
+                "price": 8
+            },
+            {
+                "recipe_id": 3,
+                "recipe_name": "Paneer Tikka Masala",
+                "picture": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine-top-view_2829-4414.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "how_to_cook": "Marinate paneer cubes in yogurt and spices for at least 30 minutes. Grill the paneer and set aside. In a pan, saute onions and garlic until golden brown. Add in tomato puree, cream, and spices. Add in grilled paneer and let it cook for 10-15 minutes.",
+                "ingredients": [
+                    "paneer",
+                    "yogurt",
+                    "tomato puree",
+                    "cream",
+                    "spices",
+                    "onions"
+                ],
+                "rating": 4.6,
+                "price": 10
+            }
+        ]
     },
     {
         "id": 2,
         "name": "Vikas Khanna",
-        "picture": "https://example.com/vikas-khanna.jpg",
+        "picture": "https://st4.depositphotos.com/1017986/25404/i/450/depositphotos_254046202-stock-photo-happy-male-indian-chef-in.jpg",
         "yearsOfExperience": 20,
         "numberOfRecipes": 500,
         "likes": 8000,
-        "description": "Vikas Khanna is an Indian Michelin star Chef, restaurateur, cookbook writer, filmmaker, humanitarian and the judge of MasterChef India Season 2, 3, 4, 5 and Masterchef Junior. He is based in New York City."
+        "description": "Vikas Khanna is an Indian Michelin star Chef, restaurateur, cookbook writer, filmmaker, humanitarian and the judge of MasterChef India Season 2, 3, 4, 5 and Masterchef Junior. He is based in New York City.",
+        "recipes": [
+            {
+                "recipe_id": 1,
+                "recipe_name": "Paneer Tikka",
+                "picture": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-apples-chili_2829-19992.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "how_to_cook": "Marinate paneer cubes with a mixture of yogurt, spices, and lemon juice. Skewer the marinated paneer along with onion and capsicum. Grill or bake in the oven until the paneer is charred and cooked through.",
+                "ingredients": [
+                    "Paneer",
+                    "Yogurt",
+                    "Ginger paste",
+                    "Garlic paste",
+                    "Lemon juice",
+                    "Red chili powder"
+                ],
+                "rating": 4.5,
+                "price": 8.99
+            },
+            {
+                "recipe_id": 2,
+                "recipe_name": "Lamb Rogan Josh",
+                "picture": "https://img.freepik.com/free-photo/delicious-goulash-stew-table_23-2149371730.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "how_to_cook": "Marinate the lamb in a mixture of yogurt, garlic, ginger, and spices for at least 2 hours. In a pot, heat oil and cook onions until golden brown. Add the marinated lamb and cook for a few minutes. Add water, tomatoes, and more spices. Cover and cook until the lamb is tender. Serve hot with rice.",
+                "ingredients": [
+                    "lamb",
+                    "yogurt",
+                    "garlic",
+                    "ginger",
+                    "onion",
+                    "tomatoes"
+                ],
+                "rating": 4.5,
+                "price": 20
+            },
+            {
+                "recipe_id": 3,
+                "recipe_name": "Mushroom Matar Masala",
+                "picture": "https://img.freepik.com/free-photo/front-view-yummy-cooked-mushrooms-with-greens-dark-space_140725-95428.jpg?size=626&ext=jpg&ga=GA1.2.1049456487.1679773694&semt=ais",
+                "how_to_cook": "In a pan, sauté onions, garlic, and ginger in oil. Add chopped mushrooms and peas to the pan along with spices and tomato puree. Simmer until the mushrooms and peas are cooked through.",
+                "ingredients": [
+                    "Mushrooms",
+                    "Peas",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Tomato puree"
+                ],
+                "rating": 4.3,
+                "price": 9.99
+            }
+        ]
     },
     {
         "id": 3,
-        "name": "Ranveer Brar",
-        "picture": "https://example.com/ranveer-brar.jpg",
+        "name": "Madhur Brar",
+        "picture": "https://media.istockphoto.com/id/521993604/photo/indian-male-chef-with-tasty-ok-sign-and-white-background.jpg?s=1024x1024&w=is&k=20&c=ca-lqFDb9rePT9WkXfHccXZpj8eBYl_6CrqLwPvWr28=",
         "yearsOfExperience": 18,
         "numberOfRecipes": 400,
         "likes": 6500,
-        "description": "Ranveer Brar is an Indian celebrity chef, TV show host, author, and food stylist. He is best known for his role as a judge on MasterChef India and his TV show 'The Great Indian Rasoi'."
+        "description": "Madhur Brar is an Indian celebrity chef, TV show host, author, and food stylist. He is best known for his role as a judge on MasterChef India and his TV show 'The Great Indian Rasoi'.",
+        "recipes": [
+            {
+                "recipe_id": 1,
+                "recipe_name": "Punjabi Chole Masala",
+                "picture": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "how_to_cook": "Soak 1 cup of chickpeas overnight. Boil them in water with tea leaves, bay leaves, and a tea bag until they are soft. In a separate pan, sauté onions, ginger, garlic, and tomatoes. Add the boiled chickpeas, salt, and spices to the pan and cook for a few minutes. Serve hot with rice or bread.",
+                "ingredients": [
+                    "Chickpeas",
+                    "Onions",
+                    "Tomatoes",
+                    "Ginger",
+                    "Garlic",
+                    "Spices"
+                ],
+                "rating": 4.5,
+                "price": 10.99
+            },
+            {
+                "recipe_id": 2,
+                "recipe_name": "Rajasthani Gatte Ki Sabzi",
+                "picture": "https://img.freepik.com/premium-photo/indian-cuisine-bhindi-masala-wooden-surface_55610-3832.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "how_to_cook": "Mix besan (gram flour), salt, and spices in a bowl. Add water to form a stiff dough. Roll the dough into cylindrical shapes and boil them in water. In a separate pan, sauté onions, ginger, garlic, and tomatoes. Add the boiled besan cylinders and cook for a few minutes. Serve hot with rice or bread.",
+                "ingredients": [
+                    "Gram Flour",
+                    "Onions",
+                    "Tomatoes",
+                    "Ginger",
+                    "Garlic",
+                    "Spices"
+                ],
+                "rating": 4.8,
+                "price": 12.99
+            },
+            {
+                "recipe_id": 3,
+                "recipe_name": "Hyderabadi Biryani",
+                "picture": "https://img.freepik.com/free-photo/side-view-rice-garnish-with-fried-onion-carrot-greens-chili-pepper-table_141793-5069.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "how_to_cook": "Marinate chicken with yogurt, salt, and spices. In a separate pan, sauté onions, ginger, garlic, and tomatoes. Add the marinated chicken and cook until tender. Cook rice in a separate pot. Layer the cooked chicken and rice in a baking dish. Bake in the oven for 10 minutes. Serve hot.",
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Onions",
+                    "Tomatoes",
+                    "Ginger",
+                    "Spices"
+                ],
+                "rating": 4.9,
+                "price": 15.99
+            }
+        ]
     },
     {
         "id": 4,
-        "name": "Madhur Jaffrey",
-        "picture": "https://example.com/madhur-jaffrey.jpg",
+        "name": "Prithi Reddy",
+        "picture": "https://media.istockphoto.com/id/1311030976/photo/portrait-of-a-young-women-chef-holding-wooden-spoon-and-spatula-standing-isolated-over-white.jpg?s=1024x1024&w=is&k=20&c=3nBCoi5p9kukcyHngPLtUWufXKuRPP-u7FEMh3ynaSA=",
         "yearsOfExperience": 50,
         "numberOfRecipes": 600,
         "likes": 10000,
-        "description": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She is recognized for bringing Indian cuisine to the western world through her cookbooks and TV shows, and has authored over 15 cookbooks."
+        "description": "Prithi Reddy is an Indian-born actress, food and travel writer, and television personality. She is recognized for bringing Indian cuisine to the western world through her cookbooks and TV shows, and has authored over 15 cookbooks.",
+        "recipes": [
+            {
+                "recipe_id": 1,
+                "recipe_name": "Pudina Pulao",
+                "picture": "https://img.freepik.com/free-photo/front-view-arrangement-with-delicious-pakistan-meal_23-2148821533.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "rating": 4.5,
+                "price": 8,
+                "how_to_cook": "Cook the rice with water, pudina leaves, and spices. Heat oil in a pan, add onions and fry until golden brown. Add the cooked rice to the pan and mix well.",
+                "ingredients": [
+                    "Basmati rice",
+                    "Pudina leaves",
+                    "Onion",
+                    "Ginger",
+                    "Garlic",
+                    "Spices"
+                ]
+            },
+            {
+                "recipe_id": 2,
+                "recipe_name": "Chettinad Chicken",
+                "picture": "https://img.freepik.com/free-photo/side-view-baked-chicken-with-cucumber-lemon-seasoning-bread-table_141793-4757.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "rating": 4.8,
+                "price": 12,
+                "how_to_cook": "Marinate the chicken with spices and yogurt. Heat oil in a pan, add onions and sauté until golden brown. Add the marinated chicken and cook until it's tender and juicy.",
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Onion",
+                    "Tomato",
+                    "Spices",
+                    "Oil"
+                ]
+            },
+            {
+                "recipe_id": 3,
+                "recipe_name": "Aloo Matar Ki Sabzi",
+                "picture": "https://img.freepik.com/free-photo/top-view-pakistani-food-arrangement_23-2148825109.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "rating": 4.2,
+                "price": 6,
+                "how_to_cook": "Heat oil in a pan, add cumin seeds and let them splutter. Add onions and sauté until golden brown. Add the spices, potatoes, and peas, and cook until the vegetables are tender.",
+                "ingredients": [
+                    "Potatoes",
+                    "Peas",
+                    "Onion",
+                    "Tomato",
+                    "Spices",
+                    "Oil"
+                ]
+            }
+        ]
     },
     {
         "id": 5,
         "name": "Atul Kochhar",
-        "picture": "https://example.com/atul-kochhar.jpg",
+        "picture": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=1024x1024&w=is&k=20&c=uezu6I2beJ1JlbDM7DmeRXqgNPuvAiCkOHWy4VqM4FA=",
         "yearsOfExperience": 25,
         "numberOfRecipes": 300,
         "likes": 5000,
-        "description": "Atul Kochhar is an Indian-born, Michelin-starred chef, restaurateur, and television personality. He is best known for his restaurants in London, including Benares, which has held a Michelin star since 2007."
+        "description": "Atul Kochhar is an Indian-born, Michelin-starred chef, restaurateur, and television personality. He is best known for his restaurants in London, including Benares, which has held a Michelin star since 2007.",
+        "recipes": [
+            {
+                "recipe_id": 1,
+                "recipe_name": "Kozhi Varuval (Spicy Chicken Fry)",
+                "picture": "https://img.freepik.com/free-photo/herbs-fried-chicken-with-chili-tomato-cucumber-carrot-fresh-pepper_1150-25910.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "how_to_cook": "Marinate chicken pieces with a blend of spices including turmeric, red chili powder, and coriander powder. Fry the marinated chicken pieces in hot oil until crispy and golden brown.",
+                "ingredients": [
+                    "Chicken",
+                    "Turmeric",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Ginger-garlic paste",
+                    "Salt"
+                ],
+                "rating": 4.5,
+                "price": 12.99
+            },
+            {
+                "recipe_id": 2,
+                "recipe_name": "Fish Curry",
+                "picture": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal-tray_23-2148734692.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "how_to_cook": "Saute onions and ginger-garlic paste in oil until golden brown. Add tomato puree, turmeric, and red chili powder. Cook for 5 minutes. Add fish and let it simmer for 10 minutes until cooked through. Garnish with fresh coriander leaves.",
+                "ingredients": [
+                    "Fish",
+                    "Onion",
+                    "Ginger-garlic paste",
+                    "Tomato puree",
+                    "Turmeric",
+                    "Red chili powder",
+                    "Salt",
+                    "Coriander leaves"
+                ],
+                "rating": 4.2,
+                "price": 14.99
+            },
+            {
+                "recipe_id": 3,
+                "recipe_name": "Avial (Mixed Vegetables in Coconut Gravy)",
+                "picture": "https://img.freepik.com/free-photo/top-view-chicken-salad-with-vegetables-light-surface_140725-75108.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "how_to_cook": "Boil mixed vegetables including beans, carrots, and pumpkin. In a separate pan, roast grated coconut, cumin seeds, and green chilies. Add the roasted coconut mixture to the boiled vegetables and stir well. Serve hot with rice.",
+                "ingredients": [
+                    "Mixed vegetables",
+                    "Coconut",
+                    "Cumin seeds",
+                    "Green chilies",
+                    "Salt"
+                ],
+                "rating": 4.7,
+                "price": 10.99
+            }
+        ]
     },
     {
         "id": 6,
-        "name": "Zorawar Kalra",
-        "picture": "https://example.com/zorawar-kalra.jpg",
+        "name": "Surya Kalra",
+        "picture": "https://st.depositphotos.com/2702761/3299/i/600/depositphotos_32998377-stock-photo-portrait-of-a-chef-smiling.jpg",
         "yearsOfExperience": 15,
         "numberOfRecipes": 200,
         "likes": 4500,
-        "description": "Zorawar Kalra is an Indian entrepreneur and the founder of Massive Restaurants, which operates several restaurant brands across India and overseas. He is also a judge on MasterChef India."
+        "description": "Zorawar Kalra is an Indian entrepreneur and the founder of Massive Restaurants, which operates several restaurant brands across India and overseas. He is also a judge on MasterChef India.",
+        "recipes": [
+            {
+                "recipe_name": "Chingri Malaikari",
+                "picture": "https://img.freepik.com/free-photo/grilled-lobster-tail-restaurant_268835-3491.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "how_to_cook": "Heat mustard oil in a pan, add bay leaves and cinnamon. Add chopped onions, ginger paste and garlic paste. Add coconut milk, turmeric powder and red chilli powder. Add prawns, salt and sugar. Cook for 7-8 minutes. Serve hot with steamed rice.",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onions",
+                    "Ginger paste",
+                    "Garlic paste"
+                ],
+                "rating": "4.5",
+                "price": "Medium"
+            },
+            {
+                "recipe_name": "Luchi-Alur Dom",
+                "picture": "https://img.freepik.com/free-photo/delicious-indian-dosa-composition_23-2149086051.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "how_to_cook": "Boil potatoes and mash them. Heat oil in a pan, add bay leaves, cumin seeds, and chopped onions. Add ginger paste and garlic paste. Add chopped tomatoes, turmeric powder, red chilli powder, and salt. Add the mashed potatoes and water. Cook until the water dries up. Serve hot with Luchi (Bengali style deep-fried flatbread).",
+                "ingredients": [
+                    "Potatoes",
+                    "Onions",
+                    "Tomatoes",
+                    "Ginger paste",
+                    "Garlic paste"
+                ],
+                "rating": "4.2",
+                "price": "Low"
+            },
+            {
+                "recipe_name": "Kosha Mangsho",
+                "picture": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?size=626&ext=jpg&ga=GA1.1.1049456487.1679773694&semt=ais",
+                "how_to_cook": "Heat mustard oil in a pan, add bay leaves, cinnamon, and cardamom. Add chopped onions and fry until brown. Add ginger paste and garlic paste. Add chopped tomatoes, turmeric powder, red chilli powder, and salt. Add mutton and fry for 5-6 minutes. Add water and pressure cook until the mutton is tender. Serve hot with steamed rice.",
+                "ingredients": [
+                    "Mutton",
+                    "Onions",
+                    "Tomatoes",
+                    "Ginger paste",
+                    "Garlic paste"
+                ],
+                "rating": "4.7",
+                "price": "High"
+            }
+        ]
     }
 ]
