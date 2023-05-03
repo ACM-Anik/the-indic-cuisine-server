@@ -3,8 +3,8 @@
         "id": 1,
         "name": "Sanjeev Kapoor",
         "picture": "https://st2.depositphotos.com/1005893/8110/i/450/depositphotos_81108802-stock-photo-indian-male-chef-in-uniform.jpg",
-        "yearsOfExperience": 30,
-        "numberOfRecipes": 1000,
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 300,
         "likes": 15000,
         "description": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known as the author of numerous Indian cookbooks and the host of the TV show Khana Khazana, which is the longest-running Indian food show.",
         "recipes": [
@@ -62,8 +62,8 @@
         "id": 2,
         "name": "Vikas Khanna",
         "picture": "https://st4.depositphotos.com/1017986/25404/i/450/depositphotos_254046202-stock-photo-happy-male-indian-chef-in.jpg",
-        "yearsOfExperience": 20,
-        "numberOfRecipes": 500,
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 150,
         "likes": 8000,
         "description": "Vikas Khanna is an Indian Michelin star Chef, restaurateur, cookbook writer, filmmaker, humanitarian and the judge of MasterChef India Season 2, 3, 4, 5 and Masterchef Junior. He is based in New York City.",
         "recipes": [
@@ -122,7 +122,7 @@
         "name": "Madhur Brar",
         "picture": "https://media.istockphoto.com/id/521993604/photo/indian-male-chef-with-tasty-ok-sign-and-white-background.jpg?s=1024x1024&w=is&k=20&c=ca-lqFDb9rePT9WkXfHccXZpj8eBYl_6CrqLwPvWr28=",
         "yearsOfExperience": 18,
-        "numberOfRecipes": 400,
+        "numberOfRecipes": 230,
         "likes": 6500,
         "description": "Madhur Brar is an Indian celebrity chef, TV show host, author, and food stylist. He is best known for his role as a judge on MasterChef India and his TV show 'The Great Indian Rasoi'.",
         "recipes": [
@@ -180,8 +180,8 @@
         "id": 4,
         "name": "Prithi Reddy",
         "picture": "https://media.istockphoto.com/id/1311030976/photo/portrait-of-a-young-women-chef-holding-wooden-spoon-and-spatula-standing-isolated-over-white.jpg?s=1024x1024&w=is&k=20&c=3nBCoi5p9kukcyHngPLtUWufXKuRPP-u7FEMh3ynaSA=",
-        "yearsOfExperience": 50,
-        "numberOfRecipes": 600,
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 100,
         "likes": 10000,
         "description": "Prithi Reddy is an Indian-born actress, food and travel writer, and television personality. She is recognized for bringing Indian cuisine to the western world through her cookbooks and TV shows, and has authored over 15 cookbooks.",
         "recipes": [
@@ -297,12 +297,12 @@
     },
     {
         "id": 6,
-        "name": "Surya Kalra",
+        "name": "Surya Roy",
         "picture": "https://st.depositphotos.com/2702761/3299/i/600/depositphotos_32998377-stock-photo-portrait-of-a-chef-smiling.jpg",
-        "yearsOfExperience": 15,
+        "yearsOfExperience": 12,
         "numberOfRecipes": 200,
         "likes": 4500,
-        "description": "Zorawar Kalra is an Indian entrepreneur and the founder of Massive Restaurants, which operates several restaurant brands across India and overseas. He is also a judge on MasterChef India.",
+        "description": "Surya Roy is an Indian entrepreneur and the founder of Massive Restaurants, which operates several restaurant brands across India and overseas. He is also a judge on MasterChef India.",
         "recipes": [
             {
                 "recipe_name": "Chingri Malaikari",
