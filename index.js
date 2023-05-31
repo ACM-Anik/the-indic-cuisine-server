@@ -25,6 +25,7 @@ app.get('/chefs/:id', (req, res) => {
 });
 
 
+
 app.listen(port, ()=>{
-    console.log(`Example app listening on port ${port}`);
+    console.log(`The Indic Cuisine Server listening on port ${port}`);
 });
